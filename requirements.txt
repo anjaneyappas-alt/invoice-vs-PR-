@@ -1,0 +1,6 @@
+streamlit>=1.40
+anthropic>=0.40
+pdfplumber>=0.11
+pypdfium2>=4.30
+openpyxl>=3.1
+pandas>=2.0
